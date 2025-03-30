@@ -1,11 +1,10 @@
-# Hi there, I'm John Ivan Galang 👋
+# Hi there, Potato 👋
 
 ## About Me
 <p style="animation: fadeIn 3s;">I'm a passionate developer with a keen interest in web development, and open-source contributions. I enjoy solving complex problems and building innovative solutions.</p>
 
 - 🌱 I’m currently a **Student** in **Eastern Visayas State University**
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: [galangjohnivan2003@gmail.com](mailto:galangjohnivan2003@gmail.com)
 - ⚡ Fun fact: I love playing chess
 
 ## Skills
@@ -26,6 +25,6 @@
 </p>
 
 ## GitHub Stats
-![JohnIvanGalang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnIvanGalang&show_icons=true&theme=radical)
+![Potato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potato&show_icons=true&theme=radical)
 
 Thank you for visiting my profile!
