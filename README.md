@@ -1,4 +1,4 @@
-# Hi there, Potato 👋
+# Hi there, Potato Here! 👋
 
 ## About Me
 <p style="animation: fadeIn 3s;">I'm a passionate developer with a keen interest in web development, and open-source contributions. I enjoy solving complex problems and building innovative solutions.</p>
