@@ -25,6 +25,6 @@
 </p>
 
 ## GitHub Stats
-![Potato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potato&show_icons=true&theme=radical)
+![Potato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potatoafk&show_icons=true&theme=radical)
 
 Thank you for visiting my profile!
