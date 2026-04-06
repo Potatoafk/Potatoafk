@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - I'm a passionate developer with a keen interest in web development, and open-source contributions. I enjoy solving complex problems and building innovative solutions.
 - 🌱 I'm currently a **Student** in **Eastern Visayas State University**
