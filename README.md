@@ -26,13 +26,9 @@
   <a href="https://github.com/Potatoafk">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Potatoafk&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Potatoafk's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Potatoafk&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="Potatoafk's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Potatoafk&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="John Ivan Galang's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Potatoafk&theme=highcontrast&radius=10" alt="Potatoafk's Activity Graph" />
 </p>
 
 
@@ -55,12 +51,6 @@
 
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/Potatoafk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Potatoafk&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/john-ivan-galang" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:dev.johnivangalang@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
