@@ -3,8 +3,8 @@
 ## About Me
 <p style="animation: fadeIn 3s;">I'm a passionate developer with a keen interest in web development, and open-source contributions. I enjoy solving complex problems and building innovative solutions.</p>
 
-- 🌱 I’m currently a **Student** in **Eastern Visayas State University**
-- 👯 I’m looking to collaborate on open-source projects
+- 🌱 I'm currently a **Student** in **Eastern Visayas State University**
+- 👯 I'm looking to collaborate on open-source projects
 - ⚡ Fun fact: I love playing chess
 
 ## Skills
@@ -25,6 +25,8 @@
 </p>
 
 ## GitHub Stats
-![Potato's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potatoafk&show_icons=true&theme=radical)
+![Pac-Man GitHub Stats](https://github-readme-stats.vercel.app/api?username=Potatoafk&show_icons=true&theme=radical&layout=compact)
+
+🎮 **Pac-Man Themed Stats** - Check out my contribution graph above! 👾
 
 Thank you for visiting my profile!
