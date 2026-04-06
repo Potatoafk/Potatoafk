@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=John%20Ivan%20Galang&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=John%20Ivan%20Galang&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 ## 📌 About Me
 - I'm a passionate developer with a keen interest in web development, and open-source contributions. I enjoy solving complex problems and building innovative solutions.
