@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=John%20Ivan%20Galang&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Potatoafk">
-    <img src="https://komarev.com/ghpvc/?username=Potatoafk&label=Profile%20views&color=00FFFF&style=flat-square" alt="Potatoafk's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - I'm a passionate developer with a keen interest in web development, and open-source contributions. I enjoy solving complex problems and building innovative solutions.
 - 🌱 I'm currently a **Student** in **Eastern Visayas State University**
