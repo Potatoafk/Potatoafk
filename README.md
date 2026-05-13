@@ -36,4 +36,4 @@
 </div>
 
 
-<a href="https://app.daily.dev/potatoafk"><img src="https://api.daily.dev/devcards/v2/HtDz6WdWnAYFMi6J6TKnL.png?type=default&r=vua" width="356" alt="Potato's Dev Card"/></a>
+<a href="https://app.daily.dev/potatoafk"><img src="https://api.daily.dev/devcards/v2/HtDz6WdWnAYFMi6J6TKnL.png?type=wide&r=wrq" width="652" alt="Potato's Dev Card"/></a>
